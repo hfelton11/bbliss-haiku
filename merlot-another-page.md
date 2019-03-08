@@ -6,4 +6,5 @@ layout: default
 
 _yay_
 
-[back](./)
+[back 2 instructions](./merlot-instructions.md)
+[back HOME](./)
